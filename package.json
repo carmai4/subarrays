@@ -1,0 +1,23 @@
+{
+  "name": "subarrays",
+  "version": "1.0.0",
+  "description": "finds all possible subarrays of an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carmai4/subarrays.git"
+  },
+  "author": "Caroline Maiorana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carmai4/subarrays/issues"
+  },
+  "homepage": "https://github.com/carmai4/subarrays#readme",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "minimist": "^1.2.5"
+  }
+}
